@@ -1,16 +1,1 @@
-
 @import url("//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css");
-
-body {
-  padding-top: 70px;
-  position: relative;
-  background-color: LightSkyBlue;
-  background-image: url("https://cloud.githubusercontent.com/assets/8481204/22186728/073abcaa-e0c0-11e6-9b58-d69ede5b1726.jpg");
-  background-repeat: no-repeat;
-}
-
-.well {
-  height: 1000px;
-  padding-top: 50px;
-  background-color: rgba(255,0,0,0.3);
-}
