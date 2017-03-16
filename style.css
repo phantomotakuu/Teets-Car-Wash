@@ -1,24 +1,14 @@
-@import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css");
-header[role="banner] {
-  #logo-main {
-    display: block;
-    margin: 20px auto;
-  }
+@import url("//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css");
+
+body {
+  padding-top: 70px;
+  background-image: url("https://cloud.githubusercontent.com/assets/8481204/10609982/9e43738c-770b-11e5-8033-f6bbbfcba07e.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
 }
 
-#navbar-primary.navbar-default {
-  background: transparent;
-  border: none;
-  .navbar-nav {
-    width: 100%;
-    text-align: center;
-    > li {
-      display: inline-block;
-      float: none;
-      > a {
-        padding-left: 30px;
-        padding-right: 30px
-        }
-    }
-  }
+.well {
+  height: 1000px;
+  padding-top: 50px;
+  background-color: rgba(255,255,255,0.5);
 }
